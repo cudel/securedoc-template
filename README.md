@@ -1,2 +1,2 @@
 # securedoc-template
-Template repo
+Template for roles and user's login with permissions.
